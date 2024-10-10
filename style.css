@@ -23,6 +23,11 @@ footer{
     font-size: 1px;
 }
 
+.opcion {
+    margin-left: 15px;
+    width: 33.3%;
+}
+
 .textofooter {
     font-size: 22px;
 }
